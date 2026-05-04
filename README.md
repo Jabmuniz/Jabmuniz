@@ -1,5 +1,13 @@
 ## Hello, I'm Joab ##
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+<div>
+<img loading = "lazy" heigth = "60px" width = "60px" src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3VuM2h2NG9mOHRmZjJvbHlkemUzZG1tMGVzYnpoaTl2Z2JmZmxpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/06xgOpFq5oF3sqJiBv/giphy.gif" />
+<img loading = "lazy" heigth = "60px" width = "60px" src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWk0aTZzbnB6YTZycjk0emxzbXV1N3BxOW5wcHB5YWx3MnIxdGhoaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1AhOUJcxXwZviUMTQN/giphy.gif" />
+<img loading = "lazy" heigth = "60px" width = "60px" src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajBqb2oyMGZoY3BvNDl1OXQzbGFnbTlkeHA5Y2gwOXl6Y3FiaGFzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3V0yA9zHe5m29sxW/giphy.gif" />
+</div>
+<h4>Programming Student, in Beginner Level;</h4>
+<h4>Next Checkpoint: Java Back-End Student;</h4>
+
+
 
 <!--
 **Jabmuniz/Jabmuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
