@@ -6,6 +6,13 @@
 </div>
 <h4>Programming Student, in Beginner Level;</h4>
 <h4>Next Checkpoint: Java Back-End Student;</h4>
+<h5> I'm learning this languages: </h5>
+<div>
+<img loading = "lazy" heigth = "40px" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img loading = "lazy" heigth = "40px" width = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <h4>And using this techonologies: </h4>
+  <img heigth = "40px" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />         
+</div>
 
 
 
